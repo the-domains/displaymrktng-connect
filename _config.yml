@@ -1,0 +1,44 @@
+name: AVSHOOTERS
+analytics: {}
+purpose:
+  - type: external
+    url: 'http://shemuel.xyz/'
+    label: BACK TO SHEMUEL.XYZ
+  - type: external
+    url: 'https://www.picktime.com/AKATAVISIONS'
+    label: BOOKING
+github: true
+description: GALLERY
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 0.40859247344444594
+color:
+  lightness: 0.4735132645182127
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+  saturation: 0.5050100040769592
+  brandStrength: 0.8471805738774819
+  rhythmicContrast: 0.5740804759903562
+content_rating:
+  adult: false
+typography_spectrum: 0.8692552097486609
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/87084fd9-1106-4c1b-8652-eaf62fd40cac.jpg
+title: FROM THE CORNER
